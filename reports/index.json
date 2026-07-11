@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260711-202142-3fiu",
+      "title": "Aerith Savante",
+      "commanders": [
+        "Aerith Savante"
+      ],
+      "dateStart": "2026-07-11T18:21:42.000Z",
+      "dateEnd": "2026-07-11T19:37:16.000Z",
+      "dateLabel": "11/7/2026, 20:21:42 - 11/7/2026, 21:37:16",
+      "url": "https://vtr-tv.github.io/gw2logs/?report=20260711-202142-3fiu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 17,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260711-165158-lrkq",
       "title": "Garage En Résine",
       "commanders": [
