@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260711-165158-lrkq",
+      "title": "Garage En Résine",
+      "commanders": [
+        "Garage En Résine"
+      ],
+      "dateStart": "2026-07-11T14:51:58.000Z",
+      "dateEnd": "2026-07-11T16:23:53.000Z",
+      "dateLabel": "11/7/2026, 16:51:58 - 11/7/2026, 18:23:53",
+      "url": "https://vtr-tv.github.io/gw2logs/?report=20260711-165158-lrkq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260708-210906-cfe7",
       "title": "Aerith Savante",
       "commanders": [
