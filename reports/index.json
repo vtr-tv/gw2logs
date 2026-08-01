@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260801-205018-3wvc",
+      "title": "Aerith Savante, Î P S Ö",
+      "commanders": [
+        "Aerith Savante",
+        "Î P S Ö"
+      ],
+      "dateStart": "2026-08-01T18:50:18.000Z",
+      "dateEnd": "2026-08-01T20:03:06.000Z",
+      "dateLabel": "1/8/2026, 20:50:18 - 1/8/2026, 22:03:06",
+      "url": "https://vtr-tv.github.io/gw2logs/?report=20260801-205018-3wvc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260711-202142-3fiu",
       "title": "Aerith Savante",
       "commanders": [
