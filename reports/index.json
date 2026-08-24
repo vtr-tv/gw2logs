@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260824-210640-e46v",
+      "title": "Aerith Savante",
+      "commanders": [
+        "Aerith Savante"
+      ],
+      "guild": {
+        "id": "7FCD0B5A-9EF7-F011-BB23-06F918AAA3DB",
+        "name": "Mistwalk Syndicate",
+        "tag": "MS"
+      },
+      "dateStart": "2026-08-24T19:06:40.000Z",
+      "dateEnd": "2026-08-24T20:04:29.431Z",
+      "dateLabel": "24/8/2026, 21:06:40 - 24/8/2026, 22:04:29",
+      "url": "https://vtr-tv.github.io/gw2logs/?report=20260824-210640-e46v",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260823-204830-eaim",
       "title": "Aerith Savante",
       "commanders": [
